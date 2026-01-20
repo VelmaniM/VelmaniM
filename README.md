@@ -1,53 +1,186 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Velmani+M;MERN+Stack+Developer;Exploring+JavaScript+%26+React.js;Coding+with+Creativity+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Velmani+M+👋;Frontend+%26+MERN+Stack+Developer;React.js+%7C+JavaScript+%7C+UI%2FUX;Turning+Ideas+Into+Interactive+Apps+🚀" />
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VelmaniM&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
 <h3 align="center">
-  <strong>MERN Stack Developer | Software Developer</strong>
+⚡ Frontend Developer | MERN Stack Developer | Software Engineer ⚡
 </h3>
+
+<p align="center">
+📍 Madurai, India • 🎓 MCA Graduate
+</p>
+
+<p align="center">
+  <a href="mailto:velmani215@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/velmani-m/" target="_blank">💼 LinkedIn</a> •
+  <a href="https://velmanim.github.io/Velmaniportfolio/" target="_blank">🌐 Portfolio</a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-<img align="right" alt="coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎯 I build clean, creative UIs with purpose  
-- 💬 Ask me about: `React.js`, `JavaScript`, or MERN Stack  
-- 🤖 Fun Fact: I treat JavaScript like coffee—strong, smooth, and essential  
-- 🧪 Exploring: The magic of full-stack development
+✨ MCA graduate & **Frontend-focused MERN Stack Developer**  
+✨ Passionate about **React.js, JavaScript, and clean UI/UX**  
+✨ Love building **fast, responsive, scalable web apps**
 
-<br><br>
+🧩 I enjoy:
+- Clean & reusable React components  
+- React Hooks & state management  
+- Pixel-perfect UI from Figma  
+- Team collaboration & problem solving  
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/velmani-m/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:velmani215@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/VelmaniM">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
-</p>
+⚔️ *Anime mindset*: Code like a warrior, debug like a master.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Arsenal (Skills)
 
-### 💻 Languages & Frameworks
+### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-### 🛠️ Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,mysql" />
+HTML5 • CSS3 • Bootstrap • JavaScript (ES6+) • React.js • JSX • React Hooks
 </p>
+
+---
+
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+</p>
+
+<p align="center">
+Node.js • Express.js • REST APIs • JWT Authentication • CRUD Operations
+</p>
+
+---
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p align="center">
+MongoDB • Mongoose ODM • MySQL • NoSQL Database • Data Modeling
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+<p align="center">
+Git • GitHub • VS Code • Postman • Version Control
+</p>
+
+---
+
+### 🎨 UI / UX & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=xd" />
+</p>
+
+<p align="center">
+Figma • Adobe XD • UI/UX Principles • Responsive Design
+</p>
+
+---
+
+### ☁️ Deployment & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=netlify" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+<p align="center">
+Firebase • Vercel • Netlify • Render • Docker (Basic) • AWS (Basic)
+</p>
+
+---
+
+### 🧠 Soft Skills
+<p align="center">
+🤝 Teamwork &nbsp;|&nbsp;
+🧩 Problem Solving &nbsp;|&nbsp;
+🗣️ Communication &nbsp;|&nbsp;
+⏱️ Time Management &nbsp;|&nbsp;
+🔄 Adaptability
+</p>
+
+---
+
+## 💼 Internship Experience
+
+### 🧑‍💻 MERN Stack Developer Intern — Inetz Technologies  
+**Aug 2025 – Nov 2025**
+
+- Built MERN full-stack features
+- Developed responsive React components
+- Integrated MongoDB with backend APIs
+- Collaborated using Git/GitHub
+- Optimized performance & fixed bugs
+
+---
+
+### 🐍 Full Stack Developer (Python) Intern — Vcodez  
+**Mar 2025 – May 2025**
+
+- Developed frontend using React.js
+- Integrated MongoDB backend
+- Participated in UI/UX discussions
+- Team collaboration using GitHub
+
+---
+
+### 🌐 Web Development Intern — Teachnook  
+**Nov 2024 – Feb 2025**
+
+- Built dynamic pages using React.js
+- Designed portfolio website
+- Converted Figma designs to code
+
+---
+
+## 🚀 Projects
+
+### 🗂️ TaskFlow Management App
+- MERN stack task manager
+- JWT authentication
+- Task CRUD, filtering, status tracking
+
+### 🌐 Personal Portfolio Website
+- Responsive HTML, CSS & JS site
+- Designed in Figma
+- Deployed online
+
+### 📊 Land Price Prediction System
+- ML-based prediction system
+- User login & data input UI
+- Backend integration
 
 ---
 
@@ -67,7 +200,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VelmaniM&theme=algolia&no-frame=true&margin-w=15" />
@@ -83,18 +216,18 @@
 
 ---
 
-## 🔝 Most Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=VelmaniM&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## ✍️ Dev Quote of the Day
+## ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-<!-- Proudly created & fixed by ChatGPT -->
+---
+
+<h2 align="center">
+🔥 Open to Frontend / MERN Stack Developer Opportunities 🔥
+</h2>
+
+<p align="center">
+<i>"Great UI is not magic — it's mastery."</i>
+</p>
